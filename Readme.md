@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
 <!-- default file list end -->
 # How to show detail data in the ListBox residing in the column's DataItemTemplate container
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e441)**
+<!-- run online end -->
 
 
 <p>This can be implemented using the following approach:</p><p>1) handle the ListBox's DataBinding event<br />
